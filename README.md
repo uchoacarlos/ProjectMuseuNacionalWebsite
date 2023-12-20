@@ -1,19 +1,19 @@
-# Projeto Calculadora - Desenvolvimento Web Completo
+# Projeto Museu Nacional Website
 
-Este projeto foi desenvolvido como parte do curso "Desenvolvimento Web Completo 2019 - 20 cursos + 20 projetos", no módulo de JavaScript, ministrado pelo professor Jorge Sant'ana na plataforma de cursos Udemy. Neste projeto, criamos uma calculadora utilizando as tecnologias HTML5, CSS3 e JavaScript.
+Este é um projeto de website criado exclusivamente com HTML5 e CSS3, visando aplicar conhecimentos sobre as novas tags HTML5 e design de sites com CSS3. O projeto foi desenvolvido durante o curso "Desenvolvimento Web Completo 2019 - 20 cursos + 20 projetos", ministrado pelo professor Jorge Sant Ana, na plataforma de ensino Udemy.
 
 ## Tecnologias Utilizadas
 
 - **HTML5:** Linguagem de marcação para estruturar conteúdo web.
 - **CSS3:** Folhas de estilo para estilização de páginas web.
-- **JavaScript:** Linguagem de programação para desenvolvimento de lógica interativa.
 
 ## Informações do Projeto
 
 O projeto inclui:
 
-- **Desenvolvimento da Calculadora:** Utilizando HTML5, CSS3 e JavaScript para criar uma calculadora funcional.
-- **Interação do Usuário:** Implementação de uma interface amigável e interativa para cálculos matemáticos.
+- **Desenvolvimento do Website:** Utilizando exclusivamente HTML5 e CSS3 para criar um site estático.
+- **Aplicação de Novas Tags HTML5:** Colocando em prática o uso de novas tags introduzidas no HTML5 para melhor semântica e estruturação.
+- **Design Responsivo com CSS3:** Aplicação de técnicas de design responsivo utilizando CSS3.
 
 ## Instruções de Uso
 
@@ -23,6 +23,6 @@ O projeto inclui:
 
 ### Execução Local
 
-- Abra o arquivo `index.html` em seu navegador web para utilizar a calculadora.
+- Abra o arquivo `index.html` em seu navegador web para visualizar o website do Museu Nacional.
 
-Este projeto é uma excelente oportunidade para praticar conceitos de HTML, CSS e JavaScript na construção de uma aplicação interativa. Sinta-se à vontade para explorar, contribuir e buscar mais informações conforme necessário.
+Este projeto é uma ótima oportunidade para praticar e aplicar os conhecimentos adquiridos em HTML5 e CSS3 na construção de um website estático. Sinta-se à vontade para explorar, contribuir e buscar mais informações conforme necessário.
